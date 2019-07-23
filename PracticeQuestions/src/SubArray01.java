@@ -1,6 +1,13 @@
 import java.util.HashMap;
-import java.util.Map;
 
+/*
+ *Given an array of 0's and 1's your task is to complete the function maxLen
+ *which returns size of the largest sub array with equal number of 0's and 1's.
+ * 0 1 0 1
+ * 4
+ * 0 0 1 0 0
+ * 2
+ */
 public class SubArray01 {
 
     public static void main(String[] args) {
